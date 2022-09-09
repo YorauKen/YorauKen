@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiteshYadav007
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...Computer Science Field
 - 📫 How to reach me ...hiteshyadavm007@gmail.com
 
