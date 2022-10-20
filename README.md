@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiteshYadav007
+- 👋 Hi, I’m @Hitesh :)
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...Computer Science Field
