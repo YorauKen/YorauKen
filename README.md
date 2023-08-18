@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hitesh :)
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...ML
-- 💞️ I’m looking to collaborate on ...Computer Science Field
+- 👀 I’m interested in ...Developing
+- 🌱 I’m currently learning ...ML,Unity
+- 💞️ I’m looking to collaborate on ... Web dev Projects
 - 📫 How to reach me ...hiteshyadavm007@gmail.com
 
 <!---
