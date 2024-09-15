@@ -33,8 +33,8 @@ Feel free to reach out via email:
 ## 💻 **Tech Stack**
 #### Languages & Frameworks
 
-| <img src="https://skillicons.dev/icons?i=c" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=python" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=java" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=js" width="50" height="50"> |<img src="https://skillicons.dev/icons?i=ts" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=html" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=rust" width="50" height="50"> |
-|---|---|---|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=c" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=python" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=java" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=js" width="50" height="50"> |<img src="https://skillicons.dev/icons?i=ts" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=html" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=rust" width="50" height="50"> |
+|---|---|---|---|---|---|---|---|
 
 
 ---
