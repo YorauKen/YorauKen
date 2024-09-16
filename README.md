@@ -59,7 +59,7 @@ Feel free to reach out via email:
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YorauKen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![YorauKen's Stats](https://github-readme-stats.vercel.app/api?username=YorauKen&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YorauKen&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YorauKen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
