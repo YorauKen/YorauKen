@@ -81,4 +81,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=hiteshyadavm007&theme=dark&filter=comp&border=border&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=hiteshyadavm007&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/> 
+<!---<img src="https://leetcard.jacoblin.cool/hiteshyadavm007?theme=dark&font=Red%20Hat%20Text" alt="stats"/>--->
