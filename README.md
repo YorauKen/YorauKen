@@ -73,7 +73,7 @@ Feel free to reach out via email:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-![](https://komarev.com/ghpvc/?username=YorauKen)
+
 
 <!---
 HiteshYadav007/HiteshYadav007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,3 +83,5 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=hiteshyadavm007&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/> 
 <!---<img src="https://leetcard.jacoblin.cool/hiteshyadavm007?theme=dark&font=Red%20Hat%20Text" alt="stats"/>--->
+
+![](https://komarev.com/ghpvc/?username=YorauKen)
