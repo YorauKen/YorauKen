@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Hitesh 👨‍💻
 
-Welcome to my space! I'm a **developer** passionate about bringing ideas to life through **code** and **innovation**.
-
+Welcome to my space! I'm a **developer** passionate about bringing ideas to life through **code** and **innovation**.<br/>
 ---
+
 
 ### 👀 **What I'm Interested In**
 - **Machine Learning** 🧠
@@ -73,7 +73,7 @@ Feel free to reach out via email:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-
+![](https://komarev.com/ghpvc/?username=YorauKen)
 
 <!---
 HiteshYadav007/HiteshYadav007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
