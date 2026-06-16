@@ -5,22 +5,10 @@ Welcome to my space! I'm a **developer** passionate about bringing ideas to life
 
 
 ### 👀 **What I'm Interested In**
+- **Data Engineering⚙️📊**
 - **Machine Learning** 🧠
 - **Software Development** 💻
 - **AI & Deep Learning** 🤖
-- **Creative Solutions** 🚀
-
----
-
-### 🌱 **Currently Learning**
-- **Machine Learning** algorithms and their real-world applications.
-- Diving deep into **AI models** and **neural networks** to power cutting-edge projects.
-
----
-
-### 💞️ **Looking to Collaborate On**
-- Projects in **ML/AI** or **full-stack development**.
-- **Open-source** contributions or **hackathons** for creative tech solutions.
 
 ---
 
@@ -54,7 +42,7 @@ Feel free to reach out via email:
 |---|---|---|---|---|
 
 #### Tools & Platforms
-| <img src="https://skillicons.dev/icons?i=git" width="50" height="50"> |  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50"> |<img src="https://skillicons.dev/icons?i=docker" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=cmake" width="50" height="50"> |<img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"> |
+| <img src="https://skillicons.dev/icons?i=git" width="50" height="50"> |  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50"> |<img src="https://skillicons.dev/icons?i=docker" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"> | <img src="https://skillicons.dev/icons?i=cmake" width="50" height="50"> |<img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"> | 
 |---|---|---|---|---|---|---|
 ---
 
